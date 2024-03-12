@@ -1,0 +1,39 @@
+body{
+    background-image: url(../IMG/fondo\ linkedin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    font-family: Verdana;
+    font-size: 80px;
+    color: orange;
+}
+h2{
+    font-family: 'Courier New';
+    color: whitesmoke;
+}
+.poster{
+    text-align: center;
+    border-image: round;
+    height: 400px;
+    width: 750px;
+
+}
+table{
+    margin: auto;
+    table-layout: auto;
+    border-spacing: 2px;
+    empty-cells: hide;
+    background-color: antiquewhite;
+    text-align: center;
+    height: 500px;
+    width: 800px;
+}
+.izq{
+    text-align: left;
+    font-weight: bold;
+}
+.cabeza{
+    font-weight: bold;
+}
